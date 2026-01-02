@@ -14,7 +14,12 @@ arraythingy.c is a array that uses several things like a for loop, strings, arra
 
 do.c is a basic program that uses a do and while loop.
 
-concatenate.c is a program that I pratice concatenation using 
+concatenate.c is a program that I pratice concatenation using strcat();
+
+loop.c is a little choice game that prints a funny loop.
+
+whileloop.c is a basic loop using for and while.
+
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
 
