@@ -12,7 +12,9 @@ guess.c is a basic number guessing game written in C.
 
 arraythingy.c is a array that uses several things like a for loop, strings, arrays, and finally a concatenates p and s strings and prints it to the console.
 
-do.c is a 
+do.c is a basic program that uses a do and while loop.
+
+concatenate.c is a program that I pratice concatenation using 
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
 
