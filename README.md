@@ -20,6 +20,8 @@ loop.c is a little choice game that prints a funny loop.
 
 whileloop.c is a basic loop using for and while.
 
+all.c is a program that has a bunch of examples including memory addresses, pointers, for loops and more (yes its broken and the code sucks but I will fix it later)
+
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
 
