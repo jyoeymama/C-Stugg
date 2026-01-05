@@ -24,6 +24,7 @@ all.c is a program that has a bunch of examples including memory addresses, poin
 
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
+(I will continue to make exe files for you guys even though im on linux!)
 
 the exe for min.c is named min.exe
 
