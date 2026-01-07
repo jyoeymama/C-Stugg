@@ -22,6 +22,8 @@ whileloop.c is a basic loop using for and while.
 
 all.c is a program that has a bunch of examples including memory addresses, pointers, for loops and more (yes its broken and the code sucks but I will fix it later)
 
+autoupdate.c is a simple program to help update everything through the terminal (it sucks lol I will make it later in bash)
+
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
 (I will continue to make exe files for you guys even though im on linux!)
