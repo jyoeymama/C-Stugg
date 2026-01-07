@@ -1,4 +1,5 @@
 //this is broken rn but I will fix it later
+// THIS IS REALLY BAD CODE SO PROBABLY DONT USE THIS LOLOLOL
 
 #include <stdio.h>
 #include <stdlib.h>
