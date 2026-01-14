@@ -30,3 +30,32 @@ EXE FILES FOR ALL OF THESE PROGRAMS:
 the exe for min.c is named min.exe
 
 the exe for guess.c is named a.exe (I forgot to do -o guess.c too lol)
+
+CURRENT PROJECT STRUCTURE:
+```
+This is my current project structure for C Stugg as of 1/14/2026
+
+
+/
+├─ programs
+│  ├─ all2
+│  ├─ a.out
+│  ├─ hello
+│  ├─ todotest
+│  ├─ todotest2
+│  ├─ todotest3
+│  ├─ todotest4
+│  └─ arraythingy
+├─ src
+│  ├─ all2.c
+│  ├─ all.c
+│  ├─ arraythingy.c
+│  ├─ autoupdate.c
+│  ├─ concatenate.c
+│  ├─ hello.c
+│  ├─ memoryadrs.c
+│  ├─ moreconcatenate.c
+│  └─ todo.c
+└─ updates
+   └─ updates.txt
+```
