@@ -1,0 +1,8 @@
+arraythingy.c
+concatenate.c
+do.c
+loop.c
+min.c
+whileloop.c
+guess.c
+
