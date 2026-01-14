@@ -3,6 +3,8 @@ This is just a repository where I keep all my C programs. This mainly serves as 
 
 (You can download the source code as a .zip at the green button on the top corner or check realeases for source code which will have it all for you there!)
 
+Check out the Offical C Stugg Website at this link:
+
 TABLE OF CONTENTS:
 
 PROGRAM DESCRIPTION:
