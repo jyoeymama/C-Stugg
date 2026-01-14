@@ -2,6 +2,7 @@
 This is just a repository where I keep all my C programs. This mainly serves as a refrence to me. I am currently learning the C language so if these programs suck just remember that I am still learning! You may use as refrence to yourself or do anything else with these programs. If you like my work, consider starring this repository to show support! Enjoy!
 
 (You can download the source code as a .zip at the green button on the top corner or check realeases for source code which will have it all for you there!)
+
 TABLE OF CONTENTS:
 
 PROGRAM DESCRIPTION:
@@ -26,8 +27,6 @@ autoupdate.c is a simple program to help update everything through the terminal 
 
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
-(I will continue to make exe files for you guys even though im on linux!)
-
 the exe for min.c is named min.exe
 
 the exe for guess.c is named a.exe (I forgot to do -o guess.c too lol)
