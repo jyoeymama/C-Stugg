@@ -29,6 +29,8 @@ autoupdate.c is a simple program to help update everything through the terminal 
 
 ifelse.c is a crappy if else statement in C.
 
+pointers.c is a simple file with 1 pointer.
+
 EXE FILES FOR ALL OF THESE PROGRAMS:
 the exe for min.c is named min.exe
 
@@ -49,11 +51,13 @@ This is my current project structure for C Stugg as of 1/14/2026
 │  ├─ todotest3
 │  ├─ todotest4
 |  ├─ ifelse
+|  ├─ pointers
 │  └─ arraythingy
 ├─ src
 |  ├─ ifelse.c
 │  ├─ all2.c
 │  ├─ all.c
+|  ├─ pointers.c
 │  ├─ arraythingy.c
 │  ├─ autoupdate.c
 │  ├─ concatenate.c
