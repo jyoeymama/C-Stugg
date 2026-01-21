@@ -1,3 +1,4 @@
+// all.c BUG FIXED AS OF 1/21/2026
 // Welcome to all.c! and file for me to pratice my knowledge of basic c!
 // Something I really like about c is that you can include header files and easily call them in the main file. I think header files are great for seprating different parts of a program to make it more organized and easily fix bugs in one specific file.
 #include <stdio.h>
@@ -6,7 +7,7 @@
 
 int main() {
     int simplearray[] = {1, 2, 3 ,4 ,5};
-    printf(simplearray);
+    printf("%d\n", simplearray);
     printf("Above is a simple array\n");
 
     // I actually like declaring int before you use it unlike java even though java is my favorite language
@@ -22,13 +23,13 @@ int main() {
     }
     printf("Above is a basic if else statement\n");
     bool isJyomama28Cool = true;
-    printf(isJyomama28Cool);
+    printf("%c", isJyomama28Cool);
     printf("above is an example of a boolean\n");
 
     //And the last thing which i really suck at, pointers.
 
-    int sigma = "69";
-    printf("%p", &sigma);
+    char* sigma = "69";
+    printf("%p\n", sigma);
     printf("That weird thing above is a memory address which is also an example of a basic pointer\n");
 
     //To all and anyone who actually looks through this
