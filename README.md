@@ -27,6 +27,7 @@ all.c is a program that has a bunch of examples including memory addresses, poin
 
 autoupdate.c is a simple program to help update everything through the terminal (it sucks lol I will make it later in bash)
 
+ifelse.c is a crappy if else statement in C.
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
 the exe for min.c is named min.exe
