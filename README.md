@@ -48,8 +48,10 @@ This is my current project structure for C Stugg as of 1/14/2026
 │  ├─ todotest2
 │  ├─ todotest3
 │  ├─ todotest4
+|  ├─ ifelse
 │  └─ arraythingy
 ├─ src
+|  ├─ ifelse.c
 │  ├─ all2.c
 │  ├─ all.c
 │  ├─ arraythingy.c
