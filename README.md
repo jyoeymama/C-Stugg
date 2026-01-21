@@ -23,7 +23,7 @@ loop.c is a little choice game that prints a funny loop.
 
 whileloop.c is a basic loop using for and while.
 
-all.c is a program that has a bunch of examples including memory addresses, pointers, for loops and more (yes its broken and the code sucks but I will fix it later)
+all.c is a program that has a bunch of examples including memory addresses, pointers, for loops and more (yes its broken and the code sucks but I will fix it later) (NEW BUG UPDATE: all.c has been fixed! just did some debugging today! all.c is fixed as of 1/21/2026)
 
 autoupdate.c is a simple program to help update everything through the terminal (it sucks lol I will make it later in bash)
 
