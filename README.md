@@ -41,7 +41,7 @@ the exe for guess.c is named a.exe (I forgot to do -o guess.c too lol)
 
 CURRENT PROJECT STRUCTURE:
 ```
-This is my current project structure for C Stugg as of 1/14/2026
+This is my current project structure for C Stugg as of 1/22/2026
 
 
 /
@@ -55,6 +55,7 @@ This is my current project structure for C Stugg as of 1/14/2026
 │  ├─ todotest4
 |  ├─ ifelse
 |  ├─ pointers
+|  ├─ basicui
 │  └─ arraythingy
 ├─ src
 |  ├─ ifelse.c
@@ -67,6 +68,7 @@ This is my current project structure for C Stugg as of 1/14/2026
 │  ├─ hello.c
 │  ├─ memoryadrs.c
 │  ├─ moreconcatenate.c
+|  ├─ basicui.c
 │  └─ todo.c
 └─ updates
    └─ updates.txt
