@@ -33,6 +33,8 @@ pointers.c is a simple file with 1 pointer.
 
 basicui.c is a basic gui using GTK. This gui was NOT created by myself and the true credit goes to this link here: https://www1.se.cuhk.edu.hk/~seem3460/lecture/GTKexample.pdf
 
+sizeof.c is a program that returns the byte sizes of variables used in this specific program. Im still learning about the sizeof operator and how it can be used for memory optimization which i find SUPER COOL!
+
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
 the exe for min.c is named min.exe
@@ -56,6 +58,7 @@ This is my current project structure for C Stugg as of 1/22/2026
 |  ├─ ifelse
 |  ├─ pointers
 |  ├─ basicui
+|  ├─ sizeof
 │  └─ arraythingy
 ├─ src
 |  ├─ ifelse.c
@@ -69,6 +72,7 @@ This is my current project structure for C Stugg as of 1/22/2026
 │  ├─ memoryadrs.c
 │  ├─ moreconcatenate.c
 |  ├─ basicui.c
+|  ├─ sizeofpractice.c
 │  └─ todo.c
 └─ updates
    └─ updates.txt
