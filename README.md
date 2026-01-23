@@ -31,7 +31,8 @@ ifelse.c is a crappy if else statement in C.
 
 pointers.c is a simple file with 1 pointer.
 
-basicui.c is a basic gui using GTK
+basicui.c is a basic gui using GTK. This gui was NOT created by myself and the true credit goes to this link here: https://www1.se.cuhk.edu.hk/~seem3460/lecture/GTKexample.pdf
+
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
 the exe for min.c is named min.exe
