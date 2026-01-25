@@ -35,6 +35,10 @@ basicui.c is a basic gui using GTK. This gui was NOT created by myself and the t
 
 sizeof.c is a program that returns the byte sizes of variables used in this specific program. Im still learning about the sizeof operator and how it can be used for memory optimization which i find SUPER COOL!
 
+hello.c is a program that you input your name and it prints hello, yourname. (not very creative but I have no ideas on what to make right now ToT )
+
+wrong.c is a program that I made to try and prove something wrong. I saw a question and got it wrong so I made it to try to prove it wrong but I was wrong myself! I still dont understand it. I did printf("something //"); and it printed something / when I thought it would print something //.
+
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
 the exe for min.c is named min.exe
@@ -59,6 +63,8 @@ This is my current project structure for C Stugg as of 1/22/2026
 |  ├─ pointers
 |  ├─ basicui
 |  ├─ sizeof
+|  ├─ hello
+|  ├─ wrong
 │  └─ arraythingy
 ├─ src
 |  ├─ ifelse.c
@@ -73,6 +79,8 @@ This is my current project structure for C Stugg as of 1/22/2026
 │  ├─ moreconcatenate.c
 |  ├─ basicui.c
 |  ├─ sizeofpractice.c
+|  ├─ hello.c
+|  ├─ wrong.c
 │  └─ todo.c
 └─ updates
    └─ updates.txt
