@@ -39,6 +39,8 @@ hello.c is a program that you input your name and it prints hello, yourname. (no
 
 wrong.c is a program that I made to try and prove something wrong. I saw a question and got it wrong so I made it to try to prove it wrong but I was wrong myself! I still dont understand it. I did printf("something //"); and it printed something / when I thought it would print something //.
 
+algotest.c is a program for me to test out the qsort algorithim in C. I found this code in C docs at devdocs.io so 99% of the credit goes to them. Go check them out and show them some love! The 1% is just personal modifications that dident do much lol.
+
 
 EXE FILES FOR ALL OF THESE PROGRAMS:
 the exe for min.c is named min.exe
@@ -65,6 +67,7 @@ This is my current project structure for C Stugg as of 1/22/2026
 |  ├─ sizeof
 |  ├─ hello
 |  ├─ wrong
+|  ├─ algotest
 │  └─ arraythingy
 ├─ src
 |  ├─ ifelse.c
@@ -81,6 +84,7 @@ This is my current project structure for C Stugg as of 1/22/2026
 |  ├─ sizeofpractice.c
 |  ├─ hello.c
 |  ├─ wrong.c
+|  ├─ algotest.c
 │  └─ todo.c
 └─ updates
    └─ updates.txt
