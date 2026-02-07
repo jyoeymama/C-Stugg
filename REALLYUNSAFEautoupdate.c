@@ -12,7 +12,7 @@ int main() {
     void *y = &x;
     for (size_t i = 0; i < sizeof x; i++) { 
     printf("%p\n", (void*)((char *)y + i));
-    int status = system("sudo dnf update");
+    int status = system("sudo dnf update"); // dnf is the package manager for fedora aka my os
     if (status == -1) {
         perror("Failed to execute command");
 	
